@@ -22,4 +22,5 @@ int main()
     printf("Big Endian = %X\n",BigEndian_int);
     printf("Little Endian = %X\n\n\n",LittleEndian_int);
     
+    return 0;
 }
